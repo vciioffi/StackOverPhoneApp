@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "494879045064",
+    "firebase_url": "https://stackoverphone-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "stackoverphone",
+    "storage_bucket": "stackoverphone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494879045064:android:d69a1cf9f4f8306d44bcfd",
+        "android_client_info": {
+          "package_name": "com.example.stackoverphone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494879045064-tkspjfrfsmtopdnelr3qdedkj3i17e03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqhWFV2PKCn4U0M2FBnqsa5SA8dwDbsuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494879045064-tkspjfrfsmtopdnelr3qdedkj3i17e03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backgorund_test"
+    tools:context=".DisplayedQuestion">
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/floating_action_button_Answer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|right"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="14dp"
+        android:src="@drawable/ic_pen"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:ignore="MissingConstraints,SpeakableTextPresentCheck" />
+
+    <ScrollView
+        android:id="@+id/scrollView2"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginBottom="1dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="SpeakableTextPresentCheck">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/linearLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="40dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="40dp"
+            android:background="@drawable/round_corners_linear"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textViewNick"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="NickName"
+                android:ems="10"
+                android:fontFamily="@font/dm_sans_bold"
+                android:textAlignment="center"
+                android:textColor="@color/naranja"
+                android:textSize="25sp" />
+
+            <TextView
+                android:id="@+id/tv_titulo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:scrollbars = "vertical"
+                android:layout_marginTop="30dp"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/custom_edit_text_rounded"
+                android:ems="10"
+                android:fontFamily="@font/dm_sans"
+                android:gravity="center"
+                android:minHeight="48dp"
+                android:textSize="17dp"
+                android:textColor="@color/black"
+                android:textColorHint="@color/azul"
+                tools:ignore="SpeakableTextPresentCheck" />
+
+            <TextView
+                android:id="@+id/QuestionTextView"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:layout_marginLeft="20dp"
+                android:fontFamily="@font/dm_sans"
+
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/custom_edit_text_rounded"
+                android:ems="10"
+                android:scrollbars = "vertical"
+                android:gravity="center"
+                android:hint="... "
+                android:inputType="textMultiLine"
+                android:minHeight="48dp"
+                android:textSize="17dp"
+                android:textColor="@color/black"
+                android:textColorHint="@color/azul"
+                tools:ignore="SpeakableTextPresentCheck" />
+
+            <TextView
+                android:id="@+id/CodeTextView"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:layout_marginLeft="20dp"
+                android:scrollbars = "vertical"
+                android:layout_marginTop="10dp"
+                android:fontFamily="@font/dm_sans"
+
+                android:layout_marginRight="20dp"
+                android:layout_marginBottom="20dp"
+                android:background="@drawable/custom_edit_text_rounded"
+                android:ems="10"
+                android:textSize="17dp"
+                android:gravity="center"
+                android:hint="codigo"
+                android:inputType="textMultiLine"
+                android:minHeight="48dp"
+                android:textColor="@color/black"
+                android:textColorHint="@color/azul"
+                tools:ignore="SpeakableTextPresentCheck" />
+            <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Respuestas"
+                android:fontFamily="@font/dm_sans_bold"
+                android:textAlignment="center"
+            android:textColor="@color/naranja"
+            android:textSize="30sp" />
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/rv_respuestas"
+                android:layout_width="match_parent"
+                android:padding="10dp"
+                android:minHeight="400dp"
+                android:layout_marginBottom="15dp"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

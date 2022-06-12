@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_test2"
+
+    tools:context=".NuevaPregunta">
+
+
+        <LinearLayout
+            android:id="@+id/linearLayout2"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:gravity="center"
+            android:orientation="vertical"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <LinearLayout
+                android:id="@+id/linearLayout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="40dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginBottom="40dp"
+                android:background="@drawable/round_corners_linear"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="55dp"
+                    android:fontFamily="@font/dm_sans_bold"
+                    android:text="StackOverPhone"
+                    android:textAlignment="center"
+                    android:textColor="@color/naranja"
+
+                    android:textSize="30sp" />
+
+                <EditText
+                    android:id="@+id/titleEditText"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:fontFamily="@font/dm_sans"
+
+                    android:layout_marginTop="30dp"
+                    android:layout_marginRight="20dp"
+                    android:background="@drawable/custom_edit_text_rounded"
+                    android:ems="10"
+                    android:hint="Titulo"
+                    android:inputType="textEmailAddress"
+                    android:minHeight="48dp"
+                    android:paddingLeft="12dp"
+                    android:textColor="@color/black"
+                    android:textColorHint="@color/azul" />
+
+                <EditText
+                    android:id="@+id/questionEditText"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="30dp"
+                    android:fontFamily="@font/dm_sans"
+
+                    android:layout_marginRight="20dp"
+                    android:background="@drawable/custom_edit_text_rounded"
+                    android:ems="10"
+                    android:hint="... "
+                    android:inputType="textMultiLine"
+                    android:minHeight="48dp"
+                    android:paddingLeft="12dp"
+                    android:textAlignment="viewStart"
+                    android:textColor="@color/black"
+                    android:textColorHint="@color/azul"
+                    tools:ignore="SpeakableTextPresentCheck" />
+
+                <EditText
+                    android:id="@+id/codeEditText"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:layout_marginLeft="20dp"
+                    android:fontFamily="@font/dm_sans"
+
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginBottom="20dp"
+                    android:background="@drawable/custom_edit_text_rounded"
+                    android:ems="10"
+                    android:hint="codigo"
+                    android:inputType="textMultiLine"
+                    android:minHeight="48dp"
+                    android:paddingLeft="12dp"
+                    android:textAlignment="viewStart"
+                    android:textColor="@color/black"
+                    android:textColorHint="@color/azul"
+                    tools:ignore="SpeakableTextPresentCheck" />
+
+
+                <Button
+                    android:id="@+id/submitQuestionButton"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="25dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginBottom="10dp"
+                    android:background="@drawable/custom_button_3"
+                    android:text="Publicar"
+                    app:backgroundTint="@null"
+                    tools:ignore="TextContrastCheck" />
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="40dp"
+                    android:orientation="horizontal">
+
+                    <View
+
+                        android:layout_width="100dp"
+                        android:layout_height="1dp"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginTop="15dp"
+                        android:background="@android:color/darker_gray" />
+
+                    <ImageView
+                        android:id="@+id/imageView5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="40dp"
+                        android:layout_weight="1"
+                        app:srcCompat="@drawable/iconsplash" />
+
+                    <View
+
+                        android:layout_width="100dp"
+                        android:layout_height="1dp"
+                        android:layout_marginTop="15dp"
+                        android:layout_marginRight="15dp"
+                        android:background="@android:color/darker_gray" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+        </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

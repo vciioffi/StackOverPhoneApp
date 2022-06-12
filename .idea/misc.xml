@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/drawable-v24/custom_button_3.xml" value="0.3828125" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.21396054628224584" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/drawable/backgorund_test.xml" value="0.21770833333333334" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/drawable/background_nav_menu.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/drawable/background_test.xml" value="0.3828125" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/drawable/background_test2.xml" value="0.22239583333333332" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/drawable/background_test3.xml" value="0.22395833333333334" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/drawable/background_test4.xml" value="0.3828125" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/drawable/circle.xml" value="0.3828125" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/drawable/custom_edit_text_rounded.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/drawable/gradient_1.xml" value="0.3828125" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/drawable/gradient_2.xml" value="0.3828125" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/drawable/gradient_3.xml" value="0.3828125" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/drawable/gradient_list.xml" value="0.3828125" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/drawable/ic_add.xml" value="0.15857359635811835" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/drawable/ic_baseline_circle_24.xml" value="0.15857359635811835" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.15857359635811835" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.15857359635811835" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/drawable/ic_mail.xml" value="0.27883156297420336" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/drawable/ic_outline_info2_24.xml" value="0.15857359635811835" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/drawable/ic_pen.xml" value="0.15857359635811835" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/drawable/ic_person.xml" value="0.15857359635811835" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/drawable/ic_send_24.xml" value="0.15857359635811835" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/drawable/round_corner.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/drawable/round_corners_linear.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/layout/activity_chat.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/layout/activity_displayed_answer.xml" value="0.2296875" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/layout/activity_displayed_question.xml" value="0.308584686774942" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/layout/activity_home.xml" value="0.33" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/layout/activity_nueva_pregunta.xml" value="0.22" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/layout/activity_nueva_respuesta.xml" value="0.25" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/layout/activity_profile.xml" value="0.32492997198879553" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/layout/activity_pruebas.xml" value="0.348731884057971" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/layout/activity_pruebas2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/layout/activity_register.xml" value="0.33" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/layout/activity_splash.xml" value="0.22" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/layout/fragment_home_fragement_home.xml" value="0.25842696629213485" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/layout/fragment_info.xml" value="0.44984025559105434" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/layout/fragment_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/layout/fragment_search.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/layout/fragment_tab_home1.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/layout/fragment_tab_home2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/layout/fragment_tab_home3.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/layout/item_answer.xml" value="0.28306159420289856" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/layout/item_message_chat.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/layout/item_rv.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/layout/itemlist.xml" value="0.33" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/layout/newitem_rv.xml" value="0.5" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/layout/neww.xml" value="0.2015625" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/menu/app_bar_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cioffi/AndroidStudioProjects/StackOverPhone/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.21396054628224584" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
