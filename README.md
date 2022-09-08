@@ -5,3 +5,11 @@ Android application developed in java that uses the Firebase technologies to sto
 |      Java       |  Firebase   |                 Android Studio                  |          Android Jetpack
 |:-------------:|:------:|:--------------------------------------:|:--------------------------------------:|
 <img src="images/javalogo.png" width="200px"> | <img src="images/firebaselogo.png" width="200px">| <img src="images/androidstudiologo.jpg" width="200px"> | <img src="images/androidjetpacklogopng.png" width="200px">
+
+
+## Functioning
+### Splash
+
+This application has a splash screen to introduce the user to it.
+
+<img src="images/splash.png" width="200px"> 
