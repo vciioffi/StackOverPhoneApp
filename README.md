@@ -20,3 +20,27 @@ This application has a splash screen to introduce the user to it.
 The main screen of the app show a RecyclerView that lists the different questions that the user have uploaded. The list can be organized in different ways using the tab layout.
 
 <img src="images/home.png" width="200px"> 
+
+
+### Navigation
+
+Using the navigation component into a bottom menu component, the user can go through the different main screens, such as "Search", "Profile" or "About"
+
+<img src="images/navfragment.png" width="600px" height="300px">
+
+
+### Other Screens
+
+There are other screens related with the Questions and the answers of the users.
+
+  #### Displayed question
+  
+  <img src="images/displayedquestion.png" width="200px">
+  
+  
+  #### Displayed answer
+  
+  <img src="images/displayedanswer.png" width="200px"> 
+  
+  ## Video Demonstration
+
