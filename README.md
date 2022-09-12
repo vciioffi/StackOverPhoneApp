@@ -13,3 +13,10 @@ Android application developed in java that uses the Firebase technologies to sto
 This application has a splash screen to introduce the user to it.
 
 <img src="images/splash.png" width="200px"> 
+
+
+### Home
+
+The main screen of the app show a RecyclerView that lists the different questions that the user have uploaded. The list can be organized in different ways using the tab layout.
+
+<img src="images/home.png" width="200px"> 
