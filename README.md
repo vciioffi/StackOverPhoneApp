@@ -7,6 +7,13 @@ Android application developed in java that uses the Firebase technologies to sto
 <img src="images/javalogo.png" width="200px"> | <img src="images/firebaselogo.png" width="200px">| <img src="images/androidstudiologo.jpg" width="200px"> | <img src="images/androidjetpacklogopng.png" width="200px">
 
 
+
+## Introduction
+
+The philosophy of Stack OverPhone (name of the mobile version) tries to offer answers to questions that do not require complex development and that can be solved quickly, also encouraging communication between users. What is sought are faster searches and answers, as this is the best use of a mobile version. Otherwise, both accessibility and usability will be compromised.
+With Stack OverPhone you can consult your questions directly from your device, with the ease and speed offered by smartphones.
+
+
 ## Functioning
 ### Splash
 
